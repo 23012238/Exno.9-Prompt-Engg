@@ -45,13 +45,20 @@ https://github.com/user-attachments/assets/478a7416-cde5-43ca-8dbc-99431f937ccd
 **Output:**  
 
 
+https://github.com/user-attachments/assets/dc36932a-55f5-4790-a9b4-6f142ef6777c
+
+
+
 ### **Prompt 3 – Advanced Prompt**
 > "A cinematic 3D animation of the complete water cycle with camera movement following the vapor rising into clouds, zooming out to show rainfall and collection in lakes, using realistic colors and natural sound effects."
 
-**Expected Output:**  
-A high-quality, cinematic animation with realistic camera motion, lighting effects, and depth, presenting the entire water cycle process dynamically.  
+**Output:**  
 
-🟢 **[Paste Video 3 Link Here]**
+
+https://github.com/user-attachments/assets/87ad0a99-565c-49c6-84a5-17e387fe900f
+
+
+
 
 ### **Step 3: Observation**
 
@@ -74,7 +81,3 @@ A high-quality, cinematic animation with realistic camera motion, lighting effec
 The prompts were successfully executed to generate three AI-based educational videos on **“The Water Cycle.”**  
 As the prompt detail increased, the quality, clarity, and motion of the generated videos improved.  
 This demonstrates that **structured and descriptive prompting** leads to more engaging and realistic video outputs.
-
----
-
-✅ **End of Experiment 9**
