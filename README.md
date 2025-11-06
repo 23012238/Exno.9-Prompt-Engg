@@ -30,7 +30,7 @@ In this experiment, three levels of prompts were used for the **Water Cycle vide
 
 
 ### **Prompt 1 – Basic Prompt**
-> "A simple animation showing the process of the water cycle, including evaporation, condensation, and rainfall."
+"A simple animation showing the process of the water cycle, including evaporation, condensation, and rainfall."
 
 **Output:**  
 
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/dc36932a-55f5-4790-a9b4-6f142ef6777c
 
 
 ### **Prompt 3 – Advanced Prompt**
-> "A cinematic 3D animation of the complete water cycle with camera movement following the vapor rising into clouds, zooming out to show rainfall and collection in lakes, using realistic colors and natural sound effects."
+"A cinematic 3D animation of the complete water cycle with camera movement following the vapor rising into clouds, zooming out to show rainfall and collection in lakes, using realistic colors and natural sound effects."
 
 **Output:**  
 
