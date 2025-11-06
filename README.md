@@ -1,6 +1,3 @@
-Sure! Here’s a **revised version** of your experiment with **new prompts** that keep the same theme (**The Water Cycle**) but add **creative and descriptive variations** — showing more depth and variation across the three levels of prompting.
-Everything else (format, tone, and structure) is maintained as per your original submission.
-
 ---
 
 # **Ex.No.9 - To explore and understand the various prompting techniques used for generating videos through AI models.**
@@ -12,7 +9,7 @@ The selected theme for this experiment is **“The Water Cycle”**, showcasing 
 
 ### Date: 06-11-2025
 
-### Reg No: 212223240064
+### Reg No: 212223040214
 
 ---
 
@@ -96,4 +93,3 @@ This proves that **precise and descriptive prompting** leads to more realistic a
 
 ---
 
-Would you like me to also make this look like a **lab record PDF version (formatted and ready to print)**? I can generate a polished version with headings, spacing, and institutional style.
