@@ -35,13 +35,14 @@ In this experiment, three levels of prompts were used for the **Water Cycle vide
 **Output:**  
 
 
+https://github.com/user-attachments/assets/478a7416-cde5-43ca-8dbc-99431f937ccd
+
+
+
 ### **Prompt 2 – Refined Prompt**
-> "A detailed educational animation of the water cycle showing the sun heating a lake, evaporation forming clouds, condensation in the sky, and rainfall completing the cycle with smooth transitions."
+"A detailed educational animation of the water cycle showing the sun heating a lake, evaporation forming clouds, condensation in the sky, and rainfall completing the cycle with smooth transitions."
 
-**Expected Output:**  
-A more visually descriptive video showing all four stages clearly with smoother transitions and visible sunlight.  
-
-🟢 **[Paste Video 2 Link Here]**
+**Output:**  
 
 
 ### **Prompt 3 – Advanced Prompt**
