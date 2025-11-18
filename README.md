@@ -95,9 +95,7 @@ https://github.com/user-attachments/assets/750e8350-9a7f-49fc-9afe-52ca47250208
 
 ## **Result:**
 
-The prompts were successfully executed to generate three AI-based educational videos on **“The Water Cycle.”**
-As the prompt complexity increased, the generated video’s **quality, motion, and educational clarity** improved significantly.
-This proves that **precise and descriptive prompting** leads to more realistic and visually engaging AI-generated videos.
+The prompts were successfully executed to generate three AI-based educational videos on “Photosynthesis.” As the prompt complexity increased, the quality, scientific accuracy, motion, and visual clarity of the videos improved noticeably. This demonstrates that precise and detailed prompting produces more realistic, engaging, and informative AI-generated videos.
 
 ---
 
