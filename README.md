@@ -35,25 +35,31 @@ Each tool supports creating short clips from text-based prompts, and I used the 
 
 ### **Step 2: Create the Prompts**
 
-In this experiment, three levels of prompts were used for the **Water Cycle video generation**:
+ “A simple animation showing the process of photosynthesis in plants.”
 
 ---
 
 ### **Prompt 1 – Basic Prompt**
 
-“A simple 2D animation showing how water evaporates from the ocean, forms clouds, and returns as rain.”
+"A simple 2D educational animation showing a green plant absorbing sunlight from the sun, taking in carbon dioxide from the air, drawing water from the soil through its roots, and releasing oxygen as part of the photosynthesis process. Smooth movement, clear visuals, and child-friendly style."
 
 **Output:**
-[https://github.com/user-attachments/assets/478a7416-cde5-43ca-8dbc-99431f937ccd](https://github.com/user-attachments/assets/478a7416-cde5-43ca-8dbc-99431f937ccd)
+
+
+https://github.com/user-attachments/assets/15072aec-4aa2-4b6b-b530-a1693c626d0c
+
 
 ---
 
 ### **Prompt 2 – Refined Prompt**
 
-“An educational 3D-style animation showing the complete water cycle: the sun heating the ocean, water vapor rising, clouds forming, rain falling on mountains, and rivers carrying water back to the sea. Include soft transitions and clear labeling for each stage.”
+"A simple 2D animation showing a green plant capturing sunlight, absorbing carbon dioxide from the air, pulling water through its roots, and creating oxygen as part of the photosynthesis process, with smooth transitions and clear visuals."
 
 **Output:**
-[https://github.com/user-attachments/assets/dc36932a-55f5-4790-a9b4-6f142ef6777c](https://github.com/user-attachments/assets/dc36932a-55f5-4790-a9b4-6f142ef6777c)
+
+
+https://github.com/user-attachments/assets/b511fa88-6042-48aa-bb4e-f15970b8fe12
+
 
 ---
 
