@@ -65,10 +65,12 @@ https://github.com/user-attachments/assets/b511fa88-6042-48aa-bb4e-f15970b8fe12
 
 ### **Prompt 3 – Advanced Prompt**
 
-“A cinematic, high-definition 3D video of the water cycle. Start with a sunrise over the ocean, zoom in on evaporation forming mist, follow vapor particles rising into clouds, pan to condensation and rainfall over green hills, then track flowing rivers returning to the sea. Add dynamic camera movements, realistic lighting, ambient sounds, and smooth transitions.”
-
+“A cinematic, high-definition 3D video of the photosynthesis process. Begin with a close-up shot of a green plant under bright sunlight, then zoom into the leaf surface and dive inside to reveal chloroplasts glowing with absorbed light. Show water traveling up from the roots, carbon dioxide entering through stomata, and microscopic reactions converting light energy into glucose and oxygen. Visualize oxygen bubbles being released into the air, with dynamic camera movements, realistic lighting, soft ambient nature sounds, and smooth, science-accurate transitions.”
 **Output:**
-[https://github.com/user-attachments/assets/87ad0a99-565c-49c6-84a5-17e387fe900f](https://github.com/user-attachments/assets/87ad0a99-565c-49c6-84a5-17e387fe900f)
+
+
+https://github.com/user-attachments/assets/750e8350-9a7f-49fc-9afe-52ca47250208
+
 
 ---
 
